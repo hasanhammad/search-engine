@@ -1,6 +1,6 @@
 # search engine using pyrhon
 
-* this search engine includes the following parts:
+* this search engine has the following parts:
 * 1- a crawler
 * 2- posting list data structure 
 * 3- indexing algorithm 
